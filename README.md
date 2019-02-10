@@ -15,6 +15,4 @@ Change directory to apitesting and do the following -
 
 The tests can be run using the following commands
 
-To build - mvn clean
-
-To run the tests - mvn test
+mvn test
