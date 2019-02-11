@@ -7,7 +7,7 @@ Install Java 8+
 Install Maven
 
 
-Checkout the project using - https://github.com/devpuraanjali/AutomationBackendPractise.git
+Checkout the project using - git clone https://github.com/devpuraanjali/AutomationBackendPractise.git
 
 Now change directory to the project on your local machine
 
